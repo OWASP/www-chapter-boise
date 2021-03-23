@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Peter Heggeler](mailto:peter.heffeler@owasp.org)
+* [Lucas Alton](mailto:lucas.alton@owasp.org)
