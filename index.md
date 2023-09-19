@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Boise
 tags: owasp-boise
 region: North America
+country: USA
 meetup-group: owasp-boise
 
 ---
