@@ -1,0 +1,30 @@
+community:
+  - name: chapter-boise
+    platform: slack
+    url: https://owasp.slack.com/archives/C027MFLJA8H
+leaders:
+  - name: Peter Henggeler
+    email: peter.henggeler@owasp.org
+    github: phenggeler
+  - name: Cat Schwan
+    email: cat.schwan@owasp.org
+  - name: Mason Coler-Dark
+    email: masoncd112@gmail.com
+location:
+  country: United States
+  country_code: US
+  region: Idaho
+  city: Boise
+  latitude: 43.6166163
+  longitude: -116.200886
+meetup_group: owasp-boise
+name: OWASP Boise
+repositories:
+  - name: www-chapter-boise
+    url: https://github.com/OWASP/www-chapter-boise
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-boise
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-boise
